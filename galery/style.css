@@ -1,0 +1,170 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+}
+
+.img-one {
+    background-image: url(http://i.mirozor.ru/u/08/589d50da5711e780b88a3750e46e99/-/Вечерний%20Китай%2033.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-two {
+    background-image: url(http://watafak.ru/uploads/posts/2017-12/1514003406_s_c16_24.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+
+}
+
+.img-three {
+    background-image: url(https://windowman.ru/wp-content/uploads/9/3/4/934a93927028383432c5fb3adefcd6f9.jpeg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-four {
+    background-image: url(https://kartinkin.net/pics/uploads/posts/2022-08/1660335320_61-kartinkin-net-p-stolitsa-kitaya-pekin-krasivo-foto-65.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-five {
+    background-image: url(https://windowman.ru/wp-content/uploads/5/8/c/58cfa65ab340e6f468faca88e24e2da1.jpeg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-six {
+    background-image: url(https://cdn.fishki.net/upload/post/201505/31/1550328/betonometry-113.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-seven {
+    background-image: url(https://i.pinimg.com/originals/49/8b/6f/498b6fc749c7154cf2b89887536f33d9.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-eight {
+    background-image: url(https://cdn.ananasposter.ru/image/cache/catalog/poster/travel/90/4149-1000x830.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-nine {
+    background-image: url(https://placepic.ru/wp-content/uploads/2017/10/r2qpazmkwwsk0_4gt4pk_w-1200.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-ten {
+    background-image: url(https://i.pinimg.com/originals/3f/71/cf/3f71cfcf90a53142cedbbb081d851eb1.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.img-eleven {
+    background-image: url(https://safety-rest.ru/upload/iblock/255/255602e89327295ad294dbeba1805630.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;  
+}
+
+.img-twelve {
+    background-image: url(https://s1.1zoom.ru/b5050/499/China_Hong_Kong_Parks_Pond_Pagodas_Nan_Lian_Garden_536828_3840x2400.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;     
+}
+
+.img-thriteen {
+    background-image: url(https://cdn.fishki.net/upload/post/201505/31/1550328/betonometry-150.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;     
+}
+
+.img-fourteen {
+    background-image: url(https://klike.net/uploads/posts/2022-11/1667538568_1.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;     
+}
+
+.img-fifteen {
+    background-image: url(https://kartinkin.net/pics/uploads/posts/2022-08/1660439222_24-kartinkin-net-p-stolitsa-kitaya-beidzhing-krasivo-foto-24.jpg);
+    background-size: 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 2px black;     
+}
+
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.mar {
+    margin-left: 190px;
+}

@@ -1,0 +1,40 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+body {
+    padding: 50px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.boss {
+     background-color: rgb(28, 199, 119);
+     padding: 10px;
+     border-radius: 20px;
+     border: solid 2px black;
+}
+
+.boss:hover {
+    background-color: rgb(226, 43, 186);
+    border-radius: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+
+a {
+   margin: 0 0 0 395px;
+}
